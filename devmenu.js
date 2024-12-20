@@ -52,4 +52,5 @@ export async function main(ns) {
   } else {
     ns.tprintf("ERROR: Exploit succeeded, but got an unknown result for the type of page");
   }
+  
 }
