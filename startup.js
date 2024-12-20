@@ -57,6 +57,7 @@ export async function main(ns) {
                         ];
 
     // Array of all servers that only need 5 ports opened
+    // Uncomment "w0r1d_d4m0n" after you get the Red Pill Augment 
     const servers5Port = ["zb-institute",
                         "taiyang-digital",
                         "infocomm",
@@ -87,7 +88,7 @@ export async function main(ns) {
                         "b-and-a",
                         "stormtech",
                         "titan-labs",
-                        "w0r1d_d43m0n"
+                        //"w0r1d_d43m0n"
                         ];
 
     // Copy our scripts onto each server that requires 0 ports
